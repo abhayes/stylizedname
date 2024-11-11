@@ -1,0 +1,13 @@
+body {
+	font-family: "Borel", sans-serif;
+	font-size: 60px;
+	text-align: center;
+	font-weight: bold;
+	color: rgb(142, 202, 230);
+	font-style: italic;
+	text-shadow: 2px 2px 5px #023047;
+	text-decoration-line: underline;
+	text-decoration-style: wavy;
+	text-decoration-color: #023047;
+	text-underline-offset: 10px;
+}
